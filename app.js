@@ -5,7 +5,7 @@ const outPut = document.querySelector(".output");
 
 
 
-console.log("yes!!")
+console.log("yes!! i am fine here")
 function btn1Click()
 {
 var a= Number(input1.value);
